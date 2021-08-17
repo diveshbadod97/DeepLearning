@@ -1,0 +1,3 @@
+model_checkpoint_path: "/home/sxg8458/homework6_DL/PartA/tf_mnist/train-2/model.ckpt-100"
+all_model_checkpoint_paths: "/home/sxg8458/homework6_DL/PartA/tf_mnist/train-2/model.ckpt-0"
+all_model_checkpoint_paths: "/home/sxg8458/homework6_DL/PartA/tf_mnist/train-2/model.ckpt-100"
